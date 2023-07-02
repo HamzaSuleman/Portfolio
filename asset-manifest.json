@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.25112105.css",
+    "main.js": "/Portfolio/static/js/main.4a27ab77.js",
+    "static/media/circle-main.png": "/Portfolio/static/media/circle-main.099f56cb474fc9b090ae.png",
+    "static/media/contact-me.jpg": "/Portfolio/static/media/contact-me.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.bfc82fcab5458ae012ee.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.a1191486f7c4bad49b5d.png",
+    "static/media/intro.png": "/Portfolio/static/media/intro.6f0f9e15f8234a7da862.png",
+    "static/media/web-development.svg": "/Portfolio/static/media/web-development.165be1c707d5551360ef71b7a14ebb2b.svg",
+    "static/media/target.svg": "/Portfolio/static/media/target.7c70fa1a668579b8785ab5df4484de6a.svg",
+    "static/media/energy.svg": "/Portfolio/static/media/energy.824b19a43ef7b811e685f14ab353ed5a.svg",
+    "static/media/custom-development.svg": "/Portfolio/static/media/custom-development.c9a2cec4c89821c02c75911f9782a5b6.svg",
+    "static/media/web.svg": "/Portfolio/static/media/web.c64e4840ee19dded2d96fc77a095cdac.svg",
+    "static/media/mobile-development.svg": "/Portfolio/static/media/mobile-development.a76ed8b620f3990a7d3caa0b591762b3.svg",
+    "static/media/ecommerce.svg": "/Portfolio/static/media/ecommerce.1613b8cdd5309862984372012fe40189.svg",
+    "static/media/brush.svg": "/Portfolio/static/media/brush.0133886d6eb615eb2e712f28b74abfc8.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.25112105.css.map": "/Portfolio/static/css/main.25112105.css.map",
+    "main.4a27ab77.js.map": "/Portfolio/static/js/main.4a27ab77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25112105.css",
+    "static/js/main.4a27ab77.js"
+  ]
+}
